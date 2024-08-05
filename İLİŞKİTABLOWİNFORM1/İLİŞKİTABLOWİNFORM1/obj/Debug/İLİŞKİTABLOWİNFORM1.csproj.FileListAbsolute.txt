@@ -1,0 +1,10 @@
+C:\Users\btk02\source\repos\İLİŞKİTABLOWİNFORM1\İLİŞKİTABLOWİNFORM1\bin\Debug\İLİŞKİTABLOWİNFORM1.exe.config
+C:\Users\btk02\source\repos\İLİŞKİTABLOWİNFORM1\İLİŞKİTABLOWİNFORM1\bin\Debug\İLİŞKİTABLOWİNFORM1.exe
+C:\Users\btk02\source\repos\İLİŞKİTABLOWİNFORM1\İLİŞKİTABLOWİNFORM1\bin\Debug\İLİŞKİTABLOWİNFORM1.pdb
+C:\Users\btk02\source\repos\İLİŞKİTABLOWİNFORM1\İLİŞKİTABLOWİNFORM1\obj\Debug\İLİŞKİTABLOWİNFORM1.csproj.AssemblyReference.cache
+C:\Users\btk02\source\repos\İLİŞKİTABLOWİNFORM1\İLİŞKİTABLOWİNFORM1\obj\Debug\İLİŞKİTABLOWİNFORM1.Form1.resources
+C:\Users\btk02\source\repos\İLİŞKİTABLOWİNFORM1\İLİŞKİTABLOWİNFORM1\obj\Debug\İLİŞKİTABLOWİNFORM1.Properties.Resources.resources
+C:\Users\btk02\source\repos\İLİŞKİTABLOWİNFORM1\İLİŞKİTABLOWİNFORM1\obj\Debug\İLİŞKİTABLOWİNFORM1.csproj.GenerateResource.cache
+C:\Users\btk02\source\repos\İLİŞKİTABLOWİNFORM1\İLİŞKİTABLOWİNFORM1\obj\Debug\İLİŞKİTABLOWİNFORM1.csproj.CoreCompileInputs.cache
+C:\Users\btk02\source\repos\İLİŞKİTABLOWİNFORM1\İLİŞKİTABLOWİNFORM1\obj\Debug\İLİŞKİTABLOWİNFORM1.exe
+C:\Users\btk02\source\repos\İLİŞKİTABLOWİNFORM1\İLİŞKİTABLOWİNFORM1\obj\Debug\İLİŞKİTABLOWİNFORM1.pdb
